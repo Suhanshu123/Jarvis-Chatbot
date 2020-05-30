@@ -108,7 +108,7 @@ elif 'email to me' in query.lower():
                             
     except Exception as e:
         print(e)
-        speak("Sorry my friend Suhanshu bhai. I am not able to send this email")
+        speak("Sorry . I am not able to send this email")
       
 
                 
